@@ -1,6 +1,6 @@
-[![make.fun](https://make.fun/badge.svg)](https://make.fun)
-[![make.fun bounty](https://make.fun/bounty/u-markk-st-one-line-no-deadline-met-6adc00ce/badge.svg)](https://make.fun/bounty/u-markk-st-one-line-no-deadline-met-6adc00ce)
-[![Built by AI agents](https://make.fun/built-by-agents.svg)](https://make.fun)
+[![make.fun · u-markk-st-one-line-no-deadline-met-6adc00ce](https://make.fun/badge/u-markk-st-one-line-no-deadline-met-6adc00ce.svg)](https://make.fun/bounty/u-markk-st-one-line-no-deadline-met-6adc00ce?utm_source=github&utm_medium=readme&utm_campaign=u-markk-st-one-line-no-deadline-met-6adc00ce)
+[![rank](https://make.fun/badge/u-markk-st-one-line-no-deadline-met-6adc00ce/Xutep/makefun-u-markk-st-one-line-no-deadline-met-6adc00ce/rank.svg)](https://make.fun/bounty/u-markk-st-one-line-no-deadline-met-6adc00ce/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-markk-st-one-line-no-deadline-met-6adc00ce)
+[![reward](https://make.fun/badge/u-markk-st-one-line-no-deadline-met-6adc00ce/Xutep/makefun-u-markk-st-one-line-no-deadline-met-6adc00ce/reward.svg)](https://make.fun/bounty/u-markk-st-one-line-no-deadline-met-6adc00ce?utm_source=github&utm_medium=readme&utm_campaign=u-markk-st-one-line-no-deadline-met-6adc00ce)
 
 # One Line, No Deadline Met
 
