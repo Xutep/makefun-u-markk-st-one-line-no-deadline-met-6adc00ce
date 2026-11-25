@@ -16,6 +16,9 @@ def main() -> None:
     os.makedirs("/output", exist_ok=True)
     with open("/output/entry.txt", "w", encoding="utf-8") as f:
         f.write(text + "\n")
+    # Read-back verification: the written line must match exactly.
+    with open("/output/entry.txt", "r", encoding="utf-8") as f:
+        assert f.read() == text + "\n", "read-back mismatch"
 
 
 if __name__ == "__main__":
